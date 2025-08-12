@@ -1,0 +1,78 @@
+DATOS PERSONALES
+Lara Rosenberg 
+Buenos Aires, Argentina 
+Email: lararosenberg21@gmail.com 
+Teléfono: +5491133948355 
+Fecha de Nacimiento: 7/10/1995
+
+RESUMEN PROFESIONAL:
+Especialista en ciencia de datos y modelado de riesgo crediticio con más de 6 años de experiencia en la industria financiera y tecnológica. Trayectoria consolidada en el desarrollo e implementación de modelos predictivos, machine learning y análisis de grandes volúmenes de datos. Fuerte formación técnica, con enfoque en soluciones de negocio basadas en datos y métricas de performance.
+
+
+EXPERIENCIA PROFESIONAL:
+
+MERCADO LIBRE (Marzo 2023 - Actualidad)
+
+Credit Risk Modeling Supervisor (Marzo 2024 - Actualidad)  
+- Supervisión de estrategias de modelado de riesgo crediticio para productos financieros de la región.  
+- Coordinación de equipo técnico y evaluación de performance de modelos.  
+
+Credit Risk Modeling Sr Analyst (Marzo 2023 - Marzo 2024)  
+- Desarrollo de modelos de score de riesgo utilizando técnicas de machine learning.  
+- Análisis de performance crediticia y diseño de estrategias de originación.  
+
+ALGORITHIA (Noviembre 2021 - Marzo 2023) 
+Data Scientist   
+- Implementación de modelos predictivos para clientes del sector financiero.  
+- Desarrollo de pipelines de datos y soluciones en la nube.  
+
+CÍRCULO DE CRÉDITO (Marzo 2020 - Noviembre 2021)
+Consultor de Modelos  
+- Construcción y monitoreo de modelos de riesgo de crédito y score de comportamiento.  
+- Trabajo conjunto con áreas de negocio para la implementación de modelos.  
+
+BANCO PATAGONIA  (Septiembre 2019 - Marzo 2020)
+Analista de Riesgos Financieros    
+- Evaluación del riesgo de mercado.  
+- Automatización de reportes regulatorios.  
+
+INSTITUTO ARGENTINO DE MERCADO DE CAPITALES (Agosto 2018 - Agosto 2019)
+Analista Financiero   
+- Análisis de mercado de capitales y generación de reportes económicos.  
+
+METLIFE SEGUROS (Abril 2018 - Agosto 2018)
+Pasante 
+- Soporte al área de Global Actuarial Modeling.  
+
+
+EDUCACIÓN:
+Posgrado en Inteligencia Artificial  
+Universidad de Buenos Aires  
+2024 - Actualidad  
+
+Actuario en Economía  
+Universidad de Buenos Aires  
+2014 - 2019  
+
+
+CURSOS Y CERTIFICACIONES:
+- Python Data Analytics (EANT)
+- Data Science (Digital House)  
+- Machine Learning with PySpark (Datacamp)  
+- Big Data Fundamentals with PySpark (Datacamp)  
+- Feature Engineering with PySpark (Datacamp)  
+- Introduction to Relational Databases in SQL (Datacamp)  
+- Joining Data in SQL (Datacamp)  
+- SAS Programming I  
+- SAS Enterprise Guide I  
+
+
+CONOCIMIENTOS TÉCNICOS:
+Lenguajes: Python, SQL, SAS    
+Modelado: Machine Learning, Feature Engineering, Scorecards  
+Bases de datos: SQL relacional  
+
+
+IDIOMAS:
+Español: Nativo  
+Inglés: Avanzado  
