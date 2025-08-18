@@ -1,0 +1,56 @@
+DATOS PERSONALES
+Victoria Teran
+Ciudad Autónoma de Buenos Aires, Argentina
+Email: mvictoriateran@gmail.com
+Teléfono: +54 9 11 3094 0685
+
+RESUMEN PROFESIONAL:
+Data Scientist con sólida experiencia en el desarrollo, validación y monitoreo de modelos de riesgo crediticio, especializada en la industria financiera y pública. Fuerte formación técnica con enfoque en el uso de Machine Learning y análisis de grandes volúmenes de datos para la toma de decisiones estratégicas. Perfil orientado a resultados, con conocimientos en herramientas de visualización y automatización de procesos.
+
+EXPERIENCIA PROFESIONAL:
+
+MERCADO LIBRE (2022 - Actualidad)
+Analista Sr de Riesgo de Crédito
+- Desarrollo, validación y monitoreo de modelos de Machine Learning para gestión de riesgo de crédito.
+- Diseño de soluciones analíticas para la toma de decisiones estratégicas.
+
+AFIP - Administración Federal de Ingresos Públicos
+
+Analista de Datos (2019 - 2022)
+- Extracción y análisis de grandes volúmenes de datos.
+- Medición de calidad, definición de variables y desarrollo de modelos predictivos.
+
+Analista Administrativo Contable (2015 - 2019)
+- Registros contables y conciliación bancaria.
+- Control y reposición de fondos internos.
+- Participación en proyectos de automatización de procesos.
+
+HSBC (2015)
+Pasante
+- Verificación, validación y registro de solicitudes de pólizas de seguro de vida individual.
+
+
+EDUCACIÓN:
+Posgrado en Inteligencia Artificial  
+Universidad de Buenos Aires  
+2024 - Actualidad  
+
+Actuario en Economía
+Facultad de Ciencias Económicas - Universidad de Buenos Aires
+2012 - 2020
+Tesina: Modelo de estimación de tasa de interés para evaluar el monto deducible del impuesto a las ganancias por un seguro de retiro
+
+
+CURSOS Y CERTIFICACIONES:
+- Curso de Data Science (Digital House, 2022)
+
+
+CONOCIMIENTOS TÉCNICOS:
+Lenguajes y herramientas: Python, SQL, Tableau, Qlikview, Microsoft Office
+Modelado: Machine Learning, Análisis Predictivo
+Visualización: Desarrollo de dashboards y reportes interactivos 
+
+
+IDIOMAS:
+Español: Nativo  
+Inglés: Intermedio  

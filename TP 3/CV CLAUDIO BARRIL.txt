@@ -1,0 +1,76 @@
+DATOS PERSONALES
+Claudio Barril
+Ciudad Autónoma de Buenos Aires, Argentina
+Email: claudiobarril@gmail.com
+Teléfono: +54 9 11 2234 0038
+
+RESUMEN PROFESIONAL:
+Ingeniero en Informática con más de 13 años de experiencia en desarrollo de software, liderazgo técnico y tecnologías blockchain. Sólida trayectoria en la implementación de soluciones descentralizadas, diseño de arquitecturas de software y desarrollo de aplicaciones bajo arquitecturas modernas como microservicios y monorepos. Enfoque en la calidad del código, mejora continua y adopción de tecnologías emergentes. Destacado por su capacidad de liderazgo, comunicación efectiva y trabajo colaborativo.
+
+
+EXPERIENCIA PROFESIONAL:
+
+THINK AND DEV (Diciembre 2021 - Actualidad)
+Líder Técnico y Desarrollador Blockchain
+- Desarrollo de aplicaciones descentralizadas utilizando Solidity, Hardhat, IPFS y TheGraph.
+- Diseño técnico, desarrollo y pruebas de contratos inteligentes.
+- Definición de arquitectura y hoja de ruta técnica para proyectos Web3.
+- Liderazgo técnico de equipo de desarrollo y coordinación de tareas.
+
+MERCADO LIBRE (Marzo 2019 - Diciembre 2021)
+Líder Técnico de Desarrollo de Software (Marzo 2020 - Diciembre 2021)
+- Diseño de arquitectura de aplicaciones para el ecosistema de pagos con QR en Argentina y Brasil.
+- Coordinación técnica de equipo y definición de roadmap de desarrollo.
+- Análisis regulatorio y soporte en decisiones estratégicas.
+
+Ingeniero de Software Senior (Marzo 2019 - Marzo 2020)
+- Desarrollo de productos de Mercado Pago bajo arquitectura de microservicios.
+- Programación con Java 8, Gradle, Spark, Guice, y bases de datos MySQL y NoSQL.
+- Desarrollo de extremo a extremo: estimación, diseño técnico, implementación, pruebas y mantenimiento.
+
+AVATURE (Febrero 2012 - Marzo 2019)
+Desarrollador de Integraciones Java (Enero 2016 - Marzo 2019)
+- Desarrollo de integraciones con socios usando Java 8, Camel, Spring, Maven y Git.
+- Diseño técnico de soluciones y mantenimiento en producción.
+
+Analista de Base de Datos (Febrero 2012 - Enero 2016)
+
+- Manipulación y transformación de datos en múltiples formatos.
+- Programación en PHP y bash para desarrollos personalizados.
+- Desarrollo de integraciones seguras usando protocolos de transferencia de archivos.
+
+WISEMAPPING (Open Source) (Enero 2014 - Diciembre 2015)
+Colaborador
+- Refactorización de código, migración tecnológica y corrección de errores.
+- Desarrollo de nuevas funcionalidades en el proyecto open-source.
+
+UNIVERSIDAD DE BUENOS AIRES (Agosto 2011 - Julio 2013)
+Ayudante de Cátedra
+- Tutorías, resolución de problemas y corrección de exámenes.
+- Enseñanza de Programación Lineal, Método Simplex y uso de herramientas como GLPK y LINDO.
+
+EDUCACIÓN:
+Ingeniería en Informática
+Universidad de Buenos Aires
+2007 - 2015 
+
+
+CONOCIMIENTOS TÉCNICOS:
+Lenguajes: Java, NodeJS, TypeScript, JavaScript, React, Solidity
+Diseño de Software: Programación Orientada a Objetos, Programación Funcional
+Arquitectura: Microservicios, Monorepos
+Bases de datos: MySQL, PostgreSQL, MongoDB, DynamoDB
+Tecnologías API: REST, GraphQL, RPC
+Herramientas: Hardhat, Git, Spark, Gradle, Guice
+Testing y debugging
+ 
+
+HABILIDADES BLANDAS:
+Comunicación
+Resolución de Problemas
+Colaboración en Equipo
+Adaptabilidad
+Atención al Detalle
+Gestión del Tiempo
+Liderazgo
+Aprendizaje Continuo
